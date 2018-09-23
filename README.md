@@ -1,6 +1,6 @@
 # portuguese-translator
 
-Portuguese Translator is a simple Python program that translates users' English word/sentences input to Portuguese, using the [py-googletrans](https://github.com/ssut/py-googletrans) Python library.
+Portuguese Translator is a simple Python program that translates users' English word/sentences input to Portuguese, using the [py-googletrans](https://github.com/ssut/py-googletrans) Python library. All queries are saved into data.json so that future repeat queries' data will be pulled from the JSON instead of API calls.
 
 This program is coded for Gerry's Software Testing module in class.
 
